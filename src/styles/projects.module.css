@@ -1,0 +1,15 @@
+.portfolio{
+       text-align: center;
+}
+.portfolio h1 {
+     font-size: 4em;
+     margin-top: 60px;
+}
+.portfolio h2 {
+      font-size: 2.5em;
+      letter-spacing: 3px;
+      margin-top: 20px;
+}
+.portfolio p {
+   font-size: 1em;   
+}
