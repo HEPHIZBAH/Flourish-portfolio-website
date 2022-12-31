@@ -13,3 +13,11 @@
 .portfolio p {
    font-size: 1em;   
 }
+.showcaseone{
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-gap: 60px;
+      text-align: center;
+      align-items: center;
+      margin-bottom: 100px;
+  }

@@ -5,6 +5,7 @@ import HireUsSection from "../components/HireUsSection"
 import * as styles from '../styles/home.module.css'
 import AboutFounder from '../components/AboutFounder'
 import MissionVision from '../components/MissionVision'
+import 'animate.css'
 
 export default function aboutUs() {
   return (
