@@ -8,24 +8,24 @@ export default function Services() {
         <div className={styles.wepDevelop}>
             <i class="fa fa-id-badge" aria-hidden="true"></i>
             <h1>Web Development</h1>
-            <p>Building Web-based solutions of world class to suit our clients and their businesses.</p>
+            <p>Developing web-based solutions of the highest caliber to meet the specific requirements of our clients and their businesses.</p>
         </div>
         <div className={styles.productDesign}>
             <i class="fa fa-address-book-o" aria-hidden="true"></i>
             <h1>Product Design</h1>
-            <p>Transforming that bright ida of yours into beautiful products</p>
+            <p>Turning your bright idea into a visually appealing product.</p>
         </div>
       </div>
       <div className={styles.secondServiceGrid}>
       <div className={styles.auditConsultancy}>
             <i class="fa fa-id-badge" aria-hidden="true"></i>
             <h1>Audit And IT Consultancy</h1>
-            <p>Optimize and Manage Business with 100% transparency and security</p>
+            <p>Enhance and manage your business with complete transparency and security.</p>
         </div>
         <div className={styles.mobileAppDevelop}>
             <i class="fa fa-address-book-o" aria-hidden="true"></i>
             <h1>Mobile App Development</h1>
-            <p>Building Apps that Create awesome experiences for users</p>
+            <p>Developing apps that provide exceptional user experiences.</p>
         </div>
       </div>
     </section>

@@ -6,9 +6,10 @@ export default function HappyClients() {
     <section className={styles.clientsHeading}>
       <h1>Happy Clients</h1>
       <div className={styles.happyClients}>
-      <div><h5>Excellent and hard working team, they improved our website usability</h5> <p>We have worked with the DotCircle team for a little over two years now and we could not be more pleased. They have always been incredibly professional and their attention to detail is impeccable. They’re truly passionate about what they do and it shows in the quality of their work.</p></div>
-      <div><h5>Excellent and hard working team, they improved our website usability</h5> <p>We have worked with the DotCircle team for a little over two years now and we could not be more pleased. They have always been incredibly professional and their attention to detail is impeccable. They’re truly passionate about what they do and it shows in the quality of their work.</p></div>
-      <div><h5>Excellent and hard working team, they improved our website usability</h5> <p>We have worked with the DotCircle team for a little over two years now and we could not be more pleased. They have always been incredibly professional and their attention to detail is impeccable. They’re truly passionate about what they do and it shows in the quality of their work.</p></div>
+      <div><h5>Our team is exceptional and hardworking, and they were able to enhance the usability of our website.</h5> <p>We have had the pleasure of working with Flourish DevOps for over two years and have been extremely satisfied with their service. They consistently demonstrate professionalism and pay close attention to detail. It is evident that they are passionate about their work, as it is consistently of the highest quality.</p></div>
+      <div><h5>Our team is exceptional and hardworking, and they were able to enhance the usability of our website.</h5> <p>
+      We have had the pleasure of working with Flourish DevOps for over two years and have been extremely satisfied with their service. They consistently demonstrate professionalism and pay close attention to detail. It is evident that they are passionate about their work, as it is consistently of the highest quality.</p></div>
+      <div><h5>Our team is exceptional and hardworking, and they were able to enhance the usability of our website.</h5> <p>We have had the pleasure of working with Flourish DevOps for over two years and have been extremely satisfied with their service. They consistently demonstrate professionalism and pay close attention to detail. It is evident that they are passionate about their work, as it is consistently of the highest quality.</p></div>
       </div>
     </section>
   )

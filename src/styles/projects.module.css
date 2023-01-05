@@ -20,4 +20,51 @@
       text-align: center;
       align-items: center;
       margin-bottom: 100px;
+      position: relative;
+
+      /* Animate the element's opacity */
+      animation: fadeInOut 2s ease-in-out;
+      animation-fill-mode: forwards;
   }
+  @keyframes fadeInOut {
+      0% {
+            bottom: -1000px;
+      }
+      100% {
+            bottom: 0px;
+      }
+    }
+
+
+
+    @media only screen and (max-width: 669px) {
+
+      .portfolio h1 {
+            font-size: 2em;
+            margin-top: 60px;
+       }
+       .portfolio h2 {
+             font-size: 1.5em;
+             letter-spacing: 3px;
+             margin-top: 20px;
+       }
+       .portfolio p {
+          font-size: 1em;   
+       }
+    }
+
+    @media only screen and (max-width: 437px) {
+
+      .portfolio h1 {
+            font-size: 2em;
+            margin-top: 60px;
+       }
+       .portfolio h2 {
+             font-size: 1em;
+             letter-spacing: 2px;
+             margin-top: 20px;
+       }
+       .portfolio p {
+          font-size: 0.8em;   
+       }
+    }
